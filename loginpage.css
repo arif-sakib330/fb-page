@@ -1,3 +1,51 @@
+body{
+    margin: o;
+    background-color:#3b5998;
+}
+.d-one{
+    padding: 9px;
+}
+.sec{
+    display: flex;
+}
+
+.fb{
+    font-size: 25px;
+}
+
 p{
     color: blue;
+}
+
+.d-one{
+    color: white;
+    margin:3px;
+}
+
+#log{
+    background-color: white;
+    padding:7px;
+    width: 60%;
+    font-size:20px;
+    text-align: center;
+}
+
+.logo{
+    width: 20px;
+}
+
+.d-two{
+    background-color:white;
+    padding: 15px ;
+    margin:5px 5px 5px;
+    
+}
+#last{
+    background-color: #3b5998;
+    text-align: center;
+    padding: 5px;
+    border-radius: 9px;
+}
+a{
+    text-decoration: none;
 }
